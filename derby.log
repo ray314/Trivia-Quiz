@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jun 16 18:29:21 NZST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016b-5ef9-dbaa-00000cb833b0 
+on database directory C:\Users\scoob\OneDrive\Past Papers\Program Design and Construction\netbeans projects\TriviaQuiz\Trivia with class loader sun.misc.Launcher$AppClassLoader@29453f44 
+Loaded from file:/C:/Program%20Files/Java/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-b12
+user.dir=C:\Users\scoob\OneDrive\Past Papers\Program Design and Construction\netbeans projects\TriviaQuiz
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
