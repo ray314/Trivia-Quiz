@@ -14,7 +14,7 @@ public class RunQuiz {
     public static void main(String[] args){
         View view = new View();                                                 //initializes JFrame and other components
         Model model = new Model();                                              //creates Model for storing/updating data
-        Controller controller = new Controller(view, model);                    //creates Controller and adds Listeners to Objects in View class
+        //Controller controller = new Controller(view, model);                    //creates Controller and adds Listeners to Objects in View class
         model.addObserver(view);                                                //can call update method in View class by notifying Observer/s
         view.setVisible(true);
     }
