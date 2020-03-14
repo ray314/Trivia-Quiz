@@ -4,4 +4,4 @@ install: ant deps
 addons:
   apt:
     packages:
-      - ant
+      ant
