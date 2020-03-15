@@ -2,7 +2,7 @@
 Description: Receives ActionEvents and MouseEvents from Objects in the View class.
              Interacts with Model and View classes.
 Date: 19/5/19
-Author: James Eason
+Author: James Eason /
  */
 
 package controller;
