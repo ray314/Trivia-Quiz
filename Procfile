@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/build/classes/controller/* RunQuiz
+web: java $JAVA_OPTS -cp build/classes/controller/* RunQuiz.class
