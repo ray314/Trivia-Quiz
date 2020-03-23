@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/test-test.jar
+web: java $JAVA_OPTS -cp target/classes:target/build/* RunQuiz
