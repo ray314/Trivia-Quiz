@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp build/classes/controller/* RunQuiz.class
+java $JAVA_OPTS -cp target/classes:target/dependency/* RunQuiz
